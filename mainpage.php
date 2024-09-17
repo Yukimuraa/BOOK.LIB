@@ -86,7 +86,7 @@ $result = $connection->query($query);
 <body>
     <nav>
        <div class="logo-container">
-        <img src="image/open-book.png" alt="">
+        <img src="image/open-book.png" alt="" width="50px">
         <h2>BOOK.<SPAN>LIB</SPAN></h2>
        </div>
      
